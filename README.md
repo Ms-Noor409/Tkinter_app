@@ -24,7 +24,7 @@ A simple Contact Form Application built with Python Tkinter. The application all
 1. Clone the repository:
 
 bash
-git clone https://github.com/your-username/contact-form-app.git
+git clone https://github.com/Ms-Noor409/Tkinter_app.git
 
 
 2. Navigate to the project folder:

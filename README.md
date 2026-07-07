@@ -1,6 +1,12 @@
 # Contact Form Application
 <img width="1893" height="973" alt="Screenshot 2026-07-08 032351" src="https://github.com/user-attachments/assets/df259c99-df0f-4cd4-b286-b4d3454d0092" />
 
+# data.txt
+Name: ali
+Number: 12354546567
+Email: ali@gmail.com
+------------------------------
+
 ## Overview
 
 A simple Contact Form Application built with Python Tkinter. The application allows users to enter their name, contact number, and email address. It validates the input data and stores the submitted information in a text file.
